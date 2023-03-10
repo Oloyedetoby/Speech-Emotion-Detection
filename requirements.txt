@@ -10,4 +10,5 @@ sounddevice==0.4.6
 soundfile==0.12.1
 streamlit==1.19.0
 wavio==0.0.7
+tensorflow==2.11.0
 
